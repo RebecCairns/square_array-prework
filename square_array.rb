@@ -5,3 +5,7 @@ def square_array(array)
    num += 1 
   end  
 end
+
+
+
+
